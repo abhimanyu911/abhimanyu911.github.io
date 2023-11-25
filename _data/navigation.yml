@@ -1,0 +1,24 @@
+# main links links
+main:
+  #- title: "Publications"
+  #  url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Projects"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /blog-posts/
+    
+  - title: "CV"
+    # url: /cv/
+    url: /files/Abhimanyu_LaTeX_CV.pdf
+    
+    
+  # - title: "Feed"
+  #   url: /feed/
