@@ -18,6 +18,10 @@ Check out this [AWS app](http://13.239.10.157:8501/) I made for categorising sup
 ![](./aws_bcu_app.gif)
 
 
+Check out this cool [image processing app](https://abhimanyu911-plages-identification-app-yfyqbq.streamlit.app/), with a GCP storage backend, that I made for identifying solar plages :
+
+![](./demo.gif)
+
 <br>
 
 I have been published at premier research venues such as **NeurIPS** and **MNRAS**. Check out my [CV](https://abhimanyu911.github.io/files/Abhimanyu_LaTeX_CV.pdf) for a detailed list of publications !
