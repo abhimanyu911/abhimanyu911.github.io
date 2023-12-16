@@ -9,8 +9,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Projects"
-  #   url: /portfolio/
+   - title: "Projects"
+    url: https://www.datascienceportfol.io/abhimanyu911
         
   # - title: "Blog Posts"
   #   url: /blog-posts/
