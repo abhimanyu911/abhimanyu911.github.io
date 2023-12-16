@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project portfolio"
+excerpt: "A link to my portfolio page"
 collection: portfolio
 ---
 
 [Click here to see my projects](https://www.datascienceportfol.io/abhimanyu911)
+<br>
