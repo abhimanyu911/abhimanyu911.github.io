@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed journals
+## <ins>Peer-reviewed journals</ins>
 
 
 1) [*In preparation*] **A. Borthakur**, A. Zimmermann, *Goalkeeper distribution is a reliable indicator of squad possession*, **Journal of Quantitative Analytics in Sports**
@@ -20,7 +20,7 @@ author_profile: true
 4) [*Published ‑ 12 July 2023*] S.Gharat, B.Bose, **A. Borthakur** and R. Mazumder, *An Image Processing approach to identify solar plages observed at 393.37 nm by the Kodaikanal Solar Observatory*, **Royal Astronomical Society Techniques and Instruments**, [[link]](https://academic.oup.com/rasti/article/2/1/393/7223482)  [[code]](https://github.com/abhimanyu911/Plages-Identification)
 
 
-## Conferences
+## <ins>Conferences</ins>
 
 
 1) [*Accepted ‑ 31 October 2023*] S.Gharat, G.Bhatta and **A. Borthakur**, *Gamma Ray AGNs: Estimating Redshifts and Blazar Classification using Neural Networks with smart initialization and self‑supervised learning*, **37th Conference on Neural Information Processing Systems (NuerIPS) @ ML4PS workshop**, [[Paper #116]](https://ml4physicalsciences.github.io/2023/)  [[Paper pdf]](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_116.pdf)  [[Poster png]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/76165.png)
