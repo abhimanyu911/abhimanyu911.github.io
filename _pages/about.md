@@ -10,12 +10,10 @@ redirect_from:
 
 ![](./website_meme_opener.jpg)
 
-
+I am Abhimanyu Borthakur and I am deeply passionate about Machine Learning. To that end, I will be applying to institutions of higher learning such that I can specialise in this field, beginning Fall '24 !
 I promise you will fall in love with me if you're open-minded (and dislike unregulated capitalism which causes democratic institutions to deteriorate into oligopoly imperialism - exasperating support of counter-revolutionary wars and various forms of economic and cultural exploitation such as top-grossing yet egregious Marvel movies which masquerade as "cinema".)
 
 
-I am Abhimanyu Borthakur and I am deeply passionate about Machine Learning. To that end, I will be applying to institutions of higher learning such that I can specialise in this field, beginning Fall '24 !
-<br>
 
 Lately I have been exploring the applications of Machine Learning towards Astrophysics and Astronomy. My ability not only lies in delivering cutting-edge and tangible research outcomes but to make those outcomes useful through the means of ML deployment.
 
