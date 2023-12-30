@@ -11,7 +11,7 @@ redirect_from:
 ![](./website_meme_opener.jpg)
 
 I am Abhimanyu Borthakur and I am deeply passionate about Machine Learning. To that end, I will be applying to institutions of higher learning such that I can specialise in this field, beginning Fall '24 !
-I promise you will fall in love with me if you're open-minded (and dislike unregulated capitalism which causes democratic institutions to deteriorate into oligopoly imperialism - exasperating support of counter-revolutionary wars and various forms of economic and cultural exploitation such as top-grossing yet egregious Marvel movies which masquerade as "cinema".)
+I promise you will fall in love with me if you're open-minded (and dislike unregulated capitalism which causes democratic institutions to deteriorate into oligopoly imperialism and various forms of economic and cultural exploitation)
 
 
 
