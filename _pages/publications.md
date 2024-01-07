@@ -11,7 +11,7 @@ author_profile: true
 1) [*In preparation*] **A. Borthakur**, A. Zimmermann, *Goalkeeper distribution is a reliable indicator of squad possession*, **Journal of Quantitative Analytics in Sports**
 
 
-2) [*Accepted - 30 December 2023*] G. Bhatta, S. Gharat, **A. Borthakur** and A. Kumar, *Gamma‑ray Blazar Classification using Machine Learning with Advanced Weight Initialization and Self‑Supervised Learning Techniques*, **Monthly Notices of The Royal Astronomical Society**, [[link]](https://arxiv.org/abs/2310.06095)  [[code]](https://github.com/abhimanyu911/bcu-classification)
+2) [*Published ‑ 05 January 2024*] G. Bhatta, S. Gharat, **A. Borthakur** and A. Kumar, *Gamma‑ray Blazar Classification using Machine Learning with Advanced Weight Initialization and Self‑Supervised Learning Techniques*, **Monthly Notices of The Royal Astronomical Society**, [[link]](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae028/7512220)  [[code]](https://github.com/abhimanyu911/bcu-classification)
 
 
 3) [*Published ‑ 23 November 2023*] S. Gharat, **A. Borthakur** and G. Bhatta, *Estimation of redshift and associated uncertainty of Fermi/LAT extra‑galactic sources with Deep Learning*, **Monthly Notices of The Royal Astronomical Society**, [[link]](https://academic.oup.com/mnras/article/527/3/6198/7445008)  [[code]](https://github.com/abhimanyu911/redshift-regression-with-uncertainty)
