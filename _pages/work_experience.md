@@ -7,7 +7,7 @@ author_profile: true
 
 ### Searce Inc: ML Engineer (JAN 2022 - SEPT 2022)
 
-As 1 of the 2 ML Engineers employed by Searce Inc(www.searce.com) from my university, I:
+As 1 of the 2 ML Engineers employed by [Searce Inc](www.searce.com) from my university, I:
 
 1) Developed and deployed an ML pipeline to automate field extraction from income tax return forms as a part of my BTech thesis.
 
