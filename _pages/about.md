@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](./website_meme_opener.png)
+![](./website_meme_opener.jpg)
 
 I am Abhimanyu Borthakur and I am deeply passionate about Machine Learning. To that end, I will be applying to institutions of higher learning such that I can specialise in this field, beginning Fall '24 !
 
