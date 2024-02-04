@@ -11,11 +11,11 @@ As 1 of the 2 ML Engineers employed by [Searce Inc](https://www.searce.com/) fro
 
 1) Developed and deployed an ML pipeline to automate field extraction from income tax return forms as a part of my BTech thesis.
 
-2) Achieved the [PMLE certification from Google](https://www.credential.net/f4ddb5e0-7614-49d1-8273-d14548104fd3), which is typically only achieved after 3 years of industry experience.
+2) Earned the [PMLE certification from Google](https://www.credential.net/f4ddb5e0-7614-49d1-8273-d14548104fd3) within the first six months of my tenure, which is typically achieved by individuals with 3 years of industry experience.
 
 3) Co-lead the database design for a client project conducted for a US-based automation company.
 
-4) Developed code for localizing documents on wooden surfaces.
+4) Developed code for localizing documents on wooden surfaces, and summarizing legal documents though both abstractive and extractive approaches.
 
 
 [Final semester project report/ BTech thesis](https://abhimanyu911.github.io/files/BTech_project_report_Abhimanyu_180907742.pdf)
