@@ -10,7 +10,7 @@ redirect_from:
 
 ![](./website_meme_opener.jpg)
 
-I am Abhimanyu Borthakur and I am deeply passionate about Machine Learning. To that end, I will be applying to institutions of higher learning such that I can specialise in this field, beginning Fall '24 !
+I am Abhimanyu Borthakur and I am deeply passionate about Machine Learning. To that end, I will be attending the [MS ECE program at UCLA](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/) such that I can specialise in this field, beginning Fall '24 !
 
 Lately I have been exploring the applications of Machine Learning towards Astrophysics and Astronomy. My ability not only lies in delivering cutting-edge and tangible research outcomes but to make those outcomes useful through the means of ML deployment.
 
