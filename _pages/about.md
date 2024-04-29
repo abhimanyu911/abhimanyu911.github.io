@@ -26,7 +26,7 @@ Check out this cool [image processing app](https://abhimanyu911-plages-identific
 
 <br>
 
-I have been published at premier research venues such as [**NeurIPS**](https://nips.cc/) and [**MNRAS**](https://academic.oup.com/mnras). Check out my [CV](https://abhimanyu911.github.io/files/Abhimanyu_Borthakur_LaTeX_CV_academic.pdf) for a detailed list of my experiences and publications !
+I have been published at premier research venues such as [**NeurIPS**](https://nips.cc/) and [**MNRAS**](https://academic.oup.com/mnras). Check out my [CV](https://abhimanyu911.github.io/files/Abhimanyu_Borthakur_CV.pdf) for a detailed list of my experiences and publications !
 
 I am always looking for internships in the field of Machine Learning and Computer Vision.
 
