@@ -14,7 +14,7 @@ I am Abhimanyu Borthakur and I am deeply passionate about Machine Learning. To t
 
 Lately I have been exploring the applications of Machine Learning towards Astrophysics and Astronomy. My ability not only lies in delivering cutting-edge and tangible research outcomes but to make those outcomes useful through the means of ML deployment.
 
-Check out this [AWS app](http://13.239.10.157:8501/) I made for categorising supermassive blackhole systems, based on their properties, with the help of a novel lightweight neural network:
+Check out this [AWS app](https://github.com/abhimanyu911/bcu-classification) I made for categorising supermassive blackhole systems, based on their properties, with the help of a novel lightweight neural network:
 
 
 ![](./aws_bcu_app.gif)
