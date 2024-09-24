@@ -7,17 +7,13 @@ author_profile: true
 
 ## <ins>Peer-reviewed journals</ins>
 
-
-1) [*In preparation*] **A. Borthakur**, A. Zimmermann, *Goalkeeper distribution is a reliable indicator of squad possession*, **Journal of Quantitative Analytics in Sports**
-
-
-2) [*Published ‑ 05 January 2024*] G. Bhatta, S. Gharat, **A. Borthakur** and A. Kumar, *Gamma‑ray Blazar Classification using Machine Learning with Advanced Weight Initialization and Self‑Supervised Learning Techniques*, **Monthly Notices of The Royal Astronomical Society**, [[link]](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae028/7512220)  [[code]](https://github.com/abhimanyu911/bcu-classification)
+1) [*Published ‑ 05 January 2024*] G. Bhatta, S. Gharat, **A. Borthakur** and A. Kumar, *Gamma‑ray Blazar Classification using Machine Learning with Advanced Weight Initialization and Self‑Supervised Learning Techniques*, **Monthly Notices of The Royal Astronomical Society**, [[link]](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae028/7512220)  [[code]](https://github.com/abhimanyu911/bcu-classification)
 
 
-3) [*Published ‑ 23 November 2023*] S. Gharat, **A. Borthakur** and G. Bhatta, *Estimation of redshift and associated uncertainty of Fermi/LAT extra‑galactic sources with Deep Learning*, **Monthly Notices of The Royal Astronomical Society**, [[link]](https://academic.oup.com/mnras/article/527/3/6198/7445008)  [[code]](https://github.com/abhimanyu911/redshift-regression-with-uncertainty)
+2) [*Published ‑ 23 November 2023*] S. Gharat, **A. Borthakur** and G. Bhatta, *Estimation of redshift and associated uncertainty of Fermi/LAT extra‑galactic sources with Deep Learning*, **Monthly Notices of The Royal Astronomical Society**, [[link]](https://academic.oup.com/mnras/article/527/3/6198/7445008)  [[code]](https://github.com/abhimanyu911/redshift-regression-with-uncertainty)
 
 
-4) [*Published ‑ 12 July 2023*] S.Gharat, B.Bose, **A. Borthakur** and R. Mazumder, *An Image Processing approach to identify solar plages observed at 393.37 nm by the Kodaikanal Solar Observatory*, **Royal Astronomical Society Techniques and Instruments**, [[link]](https://academic.oup.com/rasti/article/2/1/393/7223482)  [[code]](https://github.com/abhimanyu911/Plages-Identification)
+3) [*Published ‑ 12 July 2023*] S.Gharat, B.Bose, **A. Borthakur** and R. Mazumder, *An Image Processing approach to identify solar plages observed at 393.37 nm by the Kodaikanal Solar Observatory*, **Royal Astronomical Society Techniques and Instruments**, [[link]](https://academic.oup.com/rasti/article/2/1/393/7223482)  [[code]](https://github.com/abhimanyu911/Plages-Identification)
 
 
 ## <ins>Conferences</ins>
