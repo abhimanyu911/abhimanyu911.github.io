@@ -32,7 +32,7 @@ I am always looking for internships in the field of Machine Learning and Compute
 
 Additionally, I talk about football (soccer) from a data-driven and analytical perspective at [The FootyPod](https://open.spotify.com/show/2cZsm0FIskyMaQooWrRDbm?si=8cdc9430059548fd)
 
-If you like my work or want to collaborate with me, you can get in touch with me via [Email](abhimanyuborthakur@gmail.com) or [LinkedIn](https://in.linkedin.com/in/abhimanyu-borthakur-2a573b192)
+If you like my work or want to collaborate with me, you can get in touch with me via [Email](mailto:abhimanyu911@ucla.edu) or [LinkedIn](https://in.linkedin.com/in/abhimanyu-borthakur-2a573b192)
 
 <!-- I am Neeraja Kirtane, a final year undergrad student at Manipal Institute of Technology, Manipal. Currently I am interning at the Robert Bosch Centre for Data Science and Artifical Intelligence(RBCDSAI) at IIT Chennai, where I am working on graph DL. I am very passionate about Technology and Maths and love to learn new things. Previously I have worked on finding and mitigating gender bias from text data. I have specifically worked in Hindi and Marathi languages to address this gender bias issue. I strongly believe that technology should not be just restricted to English speakers and should be available to all. Also, these systems should be free from bias of all forms. \
 If you like my work or want to collaborate with me, you can get in touch with me via [Email](kirtane.neeraja@gmail.com) or [LinkedIn](https://www.linkedin.com/in/neeraja-kirtane-16353b2a/) -->
