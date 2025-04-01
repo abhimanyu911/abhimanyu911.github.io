@@ -10,9 +10,9 @@ redirect_from:
 
 ![](./website_meme_opener.jpg)
 
-I am Abhimanyu Borthakur and I am deeply passionate about Machine Learning. To that end, I will be attending the [MS ECE program at UCLA](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/) such that I can specialise in this field, beginning Fall '24 !
+I am Abhimanyu Borthakur and I am deeply passionate about applying Machine Learning to the Physical Sciences. To that end, I am attending the [MS ECE program at UCLA](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/) such that I can specialise in this field, beginning Fall '24 until Summer '26 ! I am currently a Graduate Student Researcher at the [QLMC lab](https://light-matter.seas.ucla.edu/light-matter-interactions/people/) working at the intersection of ultrafast optics and machine learning !
 
-Lately I have been exploring the applications of Machine Learning towards Astrophysics and Astronomy. My ability not only lies in delivering cutting-edge and tangible research outcomes but to make those outcomes useful through the means of ML deployment.
+Previously, I have explored the applications of Machine Learning towards Astrophysics and Astronomy. My ability not only lies in delivering cutting-edge and tangible research outcomes but to make those outcomes useful through the means of ML deployment.
 
 Check out this [AWS app](https://github.com/abhimanyu911/bcu-classification) I made for categorising supermassive blackhole systems, based on their properties, with the help of a novel lightweight neural network:
 
@@ -26,7 +26,7 @@ Check out this cool [image processing app](https://abhimanyu911-plages-identific
 
 <br>
 
-I have been published at premier research venues such as [**NeurIPS**](https://nips.cc/) and [**MNRAS**](https://academic.oup.com/mnras). Check out my [CV](https://abhimanyu911.github.io/files/Abhimanyu_Borthakur_LaTeX_CV_LCLS.pdf) for a detailed list of my experiences and publications !
+I have been published at premier research venues such as [**NeurIPS**](https://nips.cc/) and [**MNRAS**](https://academic.oup.com/mnras). Check out my [CV](https://abhimanyu911.github.io/files/Abhimanyu_LaTeX_CV_template.pdf) for a detailed list of my experiences and publications !
 
 I am always looking for internships in the field of Machine Learning and Computer Vision.
 
