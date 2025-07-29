@@ -18,7 +18,7 @@ author_profile: true
 
 ## <ins>Conferences</ins>
 
-1) [Accepted ‑ 16 May 2025] **A. Borthakur**, J. Hirschman, S. Carbajo, *Ultrafast Pulse Retrieval from Partial FROG Traces Using Implicit Diffusion Models*, **Optica Nonlinear Optics Topical Meeting 2025**, (Paper and code coming soon !)
+1) [*Accepted ‑ 16 May 2025*] **A. Borthakur**, J. Hirschman, S. Carbajo, *Ultrafast Pulse Retrieval from Partial FROG Traces Using Implicit Diffusion Models*, **Optica Nonlinear Optics Topical Meeting 2025**, (Paper and code coming soon !)
 
 
 2) [*Accepted ‑ 31 October 2023*] S.Gharat, G.Bhatta and **A. Borthakur**, *Gamma Ray AGNs: Estimating Redshifts and Blazar Classification using Neural Networks with smart initialization and self‑supervised learning*, **37th Conference on Neural Information Processing Systems (NuerIPS) @ ML4PS workshop**, [[Paper #116]](https://ml4physicalsciences.github.io/2023/)  [[Paper pdf]](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_116.pdf)  [[Poster png]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/76165.png)
