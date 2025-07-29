@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![](./website_meme_opener.jpg)
+
+<!-- ![](./website_meme_opener.jpg) -->
 
 I am Abhimanyu Borthakur and I am deeply passionate about applying Machine Learning to the Physical Sciences. To that end, I am attending the [MS/PhD ECE program at UCLA](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/electrical-computer-engineering/) such that I can specialise in this field, beginning Fall '24 ! I am currently a Graduate Student Researcher at the [QLMC lab](https://light-matter.seas.ucla.edu/light-matter-interactions/people/) working at the intersection of ultrafast optics and machine learning ! My moonshot goal is to advance the frontier of structured light–matter interactions through novel computational methods.
 
