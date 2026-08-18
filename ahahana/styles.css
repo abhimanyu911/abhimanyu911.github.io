@@ -108,6 +108,52 @@ h1 .l3{color:var(--mustard)}
   color:rgba(246,237,224,.82);
 }
 
+/* forecast strip */
+
+.forecast{
+  max-width:46ch;
+  margin:30px auto 0;
+  padding:20px 24px 22px;
+  border:2px solid rgba(232,163,61,.42);
+  border-radius:7px;
+  background:rgba(232,163,61,.07);
+}
+
+.forecast-head{
+  font-family:var(--util);
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.2em;
+  text-transform:uppercase;
+  color:var(--mustard);
+  margin:0;
+}
+
+.forecast-nums{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:8px 14px;
+  margin:14px 0 0;
+  font-family:var(--display);
+  font-size:1.35rem;
+  line-height:1.1;
+  text-transform:uppercase;
+  color:var(--paper);
+}
+.forecast-nums span:not(:last-child)::after{
+  content:"·";
+  color:var(--teal);
+  margin-left:14px;
+}
+
+.forecast-note{
+  margin:14px 0 0;
+  font-size:.97rem;
+  line-height:1.55;
+  color:rgba(246,237,224,.8);
+}
+
 /* ------------------------------------------------------------ tickets --- */
 
 .tickets{
@@ -231,6 +277,41 @@ h1 .l3{color:var(--mustard)}
   padding:0;
   color:#6B5B84;
 }
+.legs .or{
+  background:none;
+  border:none;
+  padding:0;
+  color:#8A7AA3;
+  font-size:10px;
+  letter-spacing:.14em;
+}
+
+.ticket h2 em{
+  display:block;
+  font-family:var(--body);
+  font-style:italic;
+  font-size:.92rem;
+  letter-spacing:.02em;
+  text-transform:none;
+  color:#6B5B84;
+  margin-top:8px;
+}
+
+.branch{
+  margin-top:14px;
+  padding-left:14px;
+  border-left:3px solid rgba(79,163,165,.35);
+}
+.branch-name{
+  font-family:var(--util);
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  color:var(--rose);
+  margin:0;
+}
+.branch .legs{margin:9px 0 0}
 
 /* stub */
 
