@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pick Your Friday</title>
+<meta name="description" content="Four ideas for Friday night. Punch the ones you like.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Karla:ital,wght@0,400;0,600;1,400&family=Space+Mono:wght@400;700&family=Caveat:wght@600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="marquee" aria-hidden="true"></div>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">Friday night · five rooms</p>
+    <h1>
+      <span class="l1">Pick</span>
+      <span class="l2">Your</span>
+      <span class="l3">Friday</span>
+    </h1>
+    <div class="rule"><span>Doors open when you say so</span></div>
+    <p class="lede">Five ideas, honestly labelled. Punch the ones you like the look of — booking it is my problem.</p>
+  </header>
+
+  <main class="tickets">
+
+    <article class="ticket">
+      <div class="main">
+        <p class="serial">No. 01 · live set</p>
+        <h2>Conversation Room</h2>
+        <p class="tags">Live music · small plates · low light</p>
+        <p class="copy">A room built around the band. The portions are small, the lighting is kind, and you're close enough to hear the amp hum between songs.</p>
+        <p class="note">closest thing here to a proper gig night</p>
+      </div>
+      <div class="stub">
+        <p class="stub-day">Fri<small>Admit two</small></p>
+        <div class="hole" aria-hidden="true"></div>
+        <button class="punch" aria-pressed="false">Punch</button>
+      </div>
+      <span class="stamp" aria-hidden="true">Picked</span>
+    </article>
+
+    <article class="ticket">
+      <div class="main">
+        <p class="serial">No. 02 · loud one</p>
+        <h2>Grid</h2>
+        <p class="tags">Food · music · high volume</p>
+        <p class="copy">The food delivers and so does the music. So does everyone else in the city — it'll be full, and it'll be loud.</p>
+        <p class="note">brilliant night, terrible for talking</p>
+      </div>
+      <div class="stub">
+        <p class="stub-day">Fri<small>Admit two</small></p>
+        <div class="hole" aria-hidden="true"></div>
+        <button class="punch" aria-pressed="false">Punch</button>
+      </div>
+      <span class="stamp" aria-hidden="true">Picked</span>
+    </article>
+
+    <article class="ticket">
+      <div class="main">
+        <p class="serial">No. 03 · quiet one</p>
+        <h2>Olive</h2>
+        <p class="tags">Cozy · quiet · good food</p>
+        <p class="copy">Warm, tucked-away, and the food is genuinely good. No soundtrack to compete with, which means we actually finish our sentences.</p>
+        <p class="note">the one where we talk for three hours</p>
+      </div>
+      <div class="stub">
+        <p class="stub-day">Fri<small>Admit two</small></p>
+        <div class="hole" aria-hidden="true"></div>
+        <button class="punch" aria-pressed="false">Punch</button>
+      </div>
+      <span class="stamp" aria-hidden="true">Picked</span>
+    </article>
+
+    <article class="ticket">
+      <div class="main">
+        <p class="serial">No. 04 · double bill</p>
+        <h2>Shelves, then sky</h2>
+        <p class="tags">Two stops · books first</p>
+        <ul class="legs">
+          <li>Oxford Bookstore</li>
+          <li class="arrow" aria-hidden="true">→</li>
+          <li>the walk</li>
+          <li class="arrow" aria-hidden="true">→</li>
+          <li>LMNOQ Skybar</li>
+        </ul>
+        <p class="copy">Start in the stacks and take as long as you want in there — I'm not rushing you out of a bookshop.</p>
+        <p class="copy">Then the good part: we walk to a rooftop from there, your hand in mine the whole way. LMNOQ, or wherever we've talked ourselves into by the time we arrive.</p>
+        <p class="note">you pick the book, I'm paying for it</p>
+      </div>
+      <div class="stub">
+        <p class="stub-day">Fri<small>Admit two</small></p>
+        <div class="hole" aria-hidden="true"></div>
+        <button class="punch" aria-pressed="false">Punch</button>
+      </div>
+      <span class="stamp" aria-hidden="true">Picked</span>
+    </article>
+
+    <article class="ticket">
+      <div class="main">
+        <p class="serial">No. 05 · your call</p>
+        <h2>Soy Yum</h2>
+        <p class="tags">Familiar ground · already approved</p>
+        <p class="copy">This one isn't my idea. It's been on your story highlights twice, which I noticed, and which I'm now openly admitting to.</p>
+        <p class="copy">Somewhere you already like beats somewhere I'm trying to impress you with. Ordering is entirely your department.</p>
+        <p class="note">yes, I was paying attention</p>
+      </div>
+      <div class="stub">
+        <p class="stub-day">Fri<small>Admit two</small></p>
+        <div class="hole" aria-hidden="true"></div>
+        <button class="punch" aria-pressed="false">Punch</button>
+      </div>
+      <span class="stamp" aria-hidden="true">Picked</span>
+    </article>
+
+  </main>
+
+  <p class="tally" id="tally" aria-live="polite">Nothing punched yet</p>
+
+  <section class="encore">
+    <strong>Encore</strong>
+    <p>None of these doing it for you? Say so and I'll find something else — there's more of this city than five rooms.</p>
+  </section>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

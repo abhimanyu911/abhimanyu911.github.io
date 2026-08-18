@@ -1,0 +1,406 @@
+/* ==========================================================================
+   Pick Your Friday — styles
+   Tokens live in :root. Change colors there and the whole page follows.
+   ========================================================================== */
+
+:root{
+  --plum:#241A38;
+  --plum-deep:#1A1229;
+  --paper:#F6EDE0;
+  --mustard:#E8A33D;
+  --rose:#E8547C;
+  --teal:#4FA3A5;
+  --ink:#2A1F42;
+
+  --display:"Alfa Slab One", Georgia, serif;
+  --body:"Karla", system-ui, sans-serif;
+  --util:"Space Mono", ui-monospace, monospace;
+  --hand:"Caveat", cursive;
+}
+
+*{box-sizing:border-box}
+
+html{scroll-behavior:smooth}
+
+body{
+  margin:0;
+  background-color:var(--plum);
+  background-image:
+    radial-gradient(rgba(246,237,224,.055) 1px, transparent 1px),
+    radial-gradient(circle at 50% 0%, rgba(232,163,61,.14), transparent 55%);
+  background-size:14px 14px, 100% 900px;
+  color:var(--paper);
+  font-family:var(--body);
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+
+.marquee{
+  height:14px;
+  background:
+    radial-gradient(circle at 7px 7px, var(--mustard) 3px, transparent 3.5px) 0 0/22px 14px repeat-x;
+  opacity:.9;
+}
+
+.wrap{
+  max-width:920px;
+  margin:0 auto;
+  padding:0 20px 90px;
+}
+
+/* --------------------------------------------------------------- hero --- */
+
+header{
+  padding:56px 0 34px;
+  text-align:center;
+}
+
+.eyebrow{
+  font-family:var(--util);
+  font-size:12px;
+  letter-spacing:.32em;
+  text-transform:uppercase;
+  color:var(--mustard);
+  margin:0 0 26px;
+}
+
+h1{
+  font-family:var(--display);
+  font-weight:400;
+  font-size:clamp(3.1rem, 15vw, 7.5rem);
+  line-height:.86;
+  letter-spacing:-.01em;
+  margin:0;
+  text-transform:uppercase;
+}
+h1 span{display:block}
+h1 .l1{color:var(--paper)}
+h1 .l2{color:var(--rose)}
+h1 .l3{color:var(--mustard)}
+
+.rule{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  margin:30px auto 0;
+  max-width:520px;
+  color:var(--teal);
+}
+.rule::before,
+.rule::after{
+  content:"";
+  flex:1;
+  height:2px;
+  background:currentColor;
+  opacity:.55;
+}
+.rule span{
+  font-family:var(--util);
+  font-size:11px;
+  letter-spacing:.24em;
+  text-transform:uppercase;
+}
+
+.lede{
+  max-width:44ch;
+  margin:24px auto 0;
+  font-size:1.02rem;
+  color:rgba(246,237,224,.82);
+}
+
+/* ------------------------------------------------------------ tickets --- */
+
+.tickets{
+  display:grid;
+  gap:34px;
+  margin-top:52px;
+}
+
+.ticket{
+  position:relative;
+  display:grid;
+  grid-template-columns:1fr 132px;
+  background:var(--paper);
+  color:var(--ink);
+  border-radius:7px;
+  box-shadow:9px 9px 0 rgba(0,0,0,.32);
+  cursor:pointer;
+  transition:transform .28s cubic-bezier(.2,.8,.3,1), box-shadow .28s ease;
+  opacity:0;
+  transform:translateY(26px);
+  animation:rise .6s cubic-bezier(.2,.8,.3,1) forwards;
+}
+.ticket:nth-child(1){animation-delay:.10s}
+.ticket:nth-child(2){animation-delay:.20s}
+.ticket:nth-child(3){animation-delay:.30s}
+.ticket:nth-child(4){animation-delay:.40s}
+.ticket:nth-child(5){animation-delay:.50s}
+
+@keyframes rise{to{opacity:1;transform:none}}
+
+.ticket:hover{
+  transform:translate(-3px,-3px);
+  box-shadow:13px 13px 0 rgba(0,0,0,.34);
+}
+
+.ticket.picked{
+  transform:rotate(-.7deg) translateY(-2px);
+  box-shadow:9px 9px 0 var(--rose);
+}
+.ticket.picked:hover{transform:rotate(-.7deg) translate(-3px,-5px)}
+
+.main{padding:30px 30px 26px}
+
+.serial{
+  font-family:var(--util);
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.2em;
+  color:var(--rose);
+  text-transform:uppercase;
+}
+
+.ticket h2{
+  font-family:var(--display);
+  font-weight:400;
+  font-size:clamp(1.9rem,6vw,2.9rem);
+  line-height:1;
+  margin:.28em 0 .34em;
+  text-transform:uppercase;
+  letter-spacing:-.005em;
+}
+
+.tags{
+  font-family:var(--util);
+  font-size:11px;
+  letter-spacing:.16em;
+  text-transform:uppercase;
+  color:#6B5B84;
+  margin:0 0 14px;
+}
+
+.ticket p.copy{
+  margin:0;
+  max-width:46ch;
+  font-size:1rem;
+  color:#3B2F55;
+}
+.ticket p.copy + p.copy{margin-top:12px}
+
+.note{
+  font-family:var(--hand);
+  font-size:1.32rem;
+  line-height:1.25;
+  color:var(--teal);
+  margin:16px 0 0;
+  display:flex;
+  gap:9px;
+  align-items:flex-start;
+}
+.note::before{
+  content:"↳";
+  font-family:var(--body);
+  font-size:.95rem;
+  opacity:.7;
+  padding-top:5px;
+}
+
+.legs{
+  list-style:none;
+  margin:16px 0;
+  padding:0;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:10px;
+  font-family:var(--util);
+  font-size:12px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+}
+.legs li{
+  background:rgba(79,163,165,.16);
+  border:1.5px solid rgba(79,163,165,.5);
+  border-radius:99px;
+  padding:5px 13px;
+  color:#2F6567;
+}
+.legs .arrow{
+  background:none;
+  border:none;
+  padding:0;
+  color:#6B5B84;
+}
+
+/* stub */
+
+.stub{
+  position:relative;
+  border-left:2.5px dashed rgba(42,31,66,.28);
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:space-between;
+  padding:24px 12px;
+  gap:12px;
+}
+.stub::before,
+.stub::after{
+  content:"";
+  position:absolute;
+  left:-1px;
+  width:20px;
+  height:20px;
+  background:var(--plum);
+  border-radius:50%;
+  transform:translateX(-50%);
+}
+.stub::before{top:-11px}
+.stub::after{bottom:-11px}
+
+.stub-day{
+  font-family:var(--display);
+  font-size:1.5rem;
+  line-height:.9;
+  text-align:center;
+  text-transform:uppercase;
+  color:var(--ink);
+}
+.stub-day small{
+  display:block;
+  font-family:var(--util);
+  font-size:10px;
+  letter-spacing:.2em;
+  color:#6B5B84;
+  margin-top:7px;
+}
+
+.hole{
+  width:26px;
+  height:26px;
+  border-radius:50%;
+  border:2.5px dashed rgba(42,31,66,.3);
+  transition:background .2s ease, border-color .2s ease, transform .3s cubic-bezier(.2,.8,.3,1);
+}
+.picked .hole{
+  background:var(--plum-deep);
+  border-color:var(--plum-deep);
+  border-style:solid;
+  box-shadow:inset 0 2px 4px rgba(0,0,0,.6);
+  transform:scale(1.08);
+}
+
+.punch{
+  font-family:var(--util);
+  font-size:10px;
+  font-weight:700;
+  letter-spacing:.13em;
+  text-transform:uppercase;
+  background:var(--ink);
+  color:var(--paper);
+  border:none;
+  border-radius:99px;
+  padding:9px 12px;
+  cursor:pointer;
+  width:100%;
+  transition:background .2s ease;
+}
+.punch:hover{background:var(--rose)}
+.picked .punch{background:var(--rose)}
+
+.stamp{
+  position:absolute;
+  top:16px;
+  right:150px;
+  font-family:var(--display);
+  font-size:1.15rem;
+  letter-spacing:.06em;
+  text-transform:uppercase;
+  color:var(--rose);
+  border:3px solid var(--rose);
+  border-radius:5px;
+  padding:3px 11px;
+  transform:rotate(-11deg) scale(.6);
+  opacity:0;
+  pointer-events:none;
+  transition:opacity .22s ease, transform .32s cubic-bezier(.2,1.5,.4,1);
+}
+.picked .stamp{
+  opacity:.92;
+  transform:rotate(-11deg) scale(1);
+}
+
+/* ------------------------------------------------------------- footer --- */
+
+.tally{
+  margin:44px 0 0;
+  text-align:center;
+  font-family:var(--util);
+  font-size:13px;
+  letter-spacing:.16em;
+  text-transform:uppercase;
+  color:var(--mustard);
+  min-height:1.6em;
+}
+
+.encore{
+  margin:34px auto 0;
+  max-width:46ch;
+  text-align:center;
+  border-top:2px solid rgba(246,237,224,.18);
+  padding-top:28px;
+  color:rgba(246,237,224,.72);
+}
+.encore strong{
+  display:block;
+  font-family:var(--display);
+  font-weight:400;
+  font-size:1.35rem;
+  letter-spacing:.02em;
+  text-transform:uppercase;
+  color:var(--paper);
+  margin-bottom:9px;
+}
+
+:focus-visible{
+  outline:3px solid var(--mustard);
+  outline-offset:3px;
+  border-radius:4px;
+}
+
+/* ------------------------------------------------------------- mobile --- */
+
+@media (max-width:640px){
+  .ticket{grid-template-columns:1fr}
+  .main{padding:26px 22px 20px}
+
+  .stub{
+    flex-direction:row;
+    border-left:none;
+    border-top:2.5px dashed rgba(42,31,66,.28);
+    padding:16px 22px;
+  }
+  .stub::before,
+  .stub::after{
+    left:auto;
+    top:-1px;
+    bottom:auto;
+    transform:translateY(-50%);
+  }
+  .stub::before{left:-11px}
+  .stub::after{right:-11px;bottom:auto}
+
+  .stub-day{font-size:1.2rem;text-align:left}
+  .stub-day small{margin-top:3px}
+  .punch{width:auto}
+  .stamp{top:auto;bottom:78px;right:20px}
+}
+
+@media (prefers-reduced-motion:reduce){
+  *{
+    animation-duration:.01ms !important;
+    transition-duration:.01ms !important;
+  }
+  .ticket{opacity:1;transform:none}
+  .ticket:hover{transform:none}
+}
