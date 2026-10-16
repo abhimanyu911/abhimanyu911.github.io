@@ -51,21 +51,21 @@
   const PLANS = {
     barnsdall: [
       [750, 'Meet at the bottom of the hill', 'Free parking on site, right off Hollywood Blvd (4800 Hollywood Blvd).'],
-      [765, 'Climb up and claim a spot', 'Up the stairs to the hilltop lawn, and straight for the shade of an olive tree since it\'s midday. I roll out the mat and start the playlist.'],
-      [780, 'Lunch on the lawn', 'Your snacks and drinks come out. Slow grazing, no agenda.'],
-      [840, 'Chat, laugh, wander', 'Talk about everything and nothing. Maybe a slow lap around Hollyhock House, Frank Lloyd Wright\'s first LA house, with its stylised hollyhock flowers cast into the walls.'],
-      [900, 'Read side by side', 'Books out. We read next to each other while the tunes play, or the birds sing, or, in true LA style, the cars rumble along Hollywood Blvd below.'],
+      [765, 'Climb up and claim a spot', 'Up the stairs to the hilltop lawn.'],
+      [780, 'Lunch on the lawn', '(Y)our snacks and drinks come out.'],
+      [840, 'Chat, laugh, wander', 'Talk about everything and nothing (since our lips will be busy). Maybe a slow lap around Hollyhock House, Frank Lloyd Wright\'s first LA house, with its stylised hollyhock flowers cast into the walls.'],
+      [900, 'Read side by side', 'Books out. We read next to each other and maybe demonstrate passages which are too abstract.'],
       [960, 'One more song', 'Pack up whenever we feel like it. The grounds are open until 10 pm, so no rush.'],
       ['sunset', 'Bonus round: stay for sunset?', 'If we\'re having too much fun to leave, the sun drops behind the Hollywood Hills and the Observatory catches the last light.']
     ],
     ucla: [
       [750, 'Meet at the Botanical Garden', 'Parking Structure 3 is the closest to the Sculpture Garden (check UCLA Transportation for the weekend rate). We start at the Botanical Garden on the south side of campus.'],
-      [760, 'Botanical Garden stroll', 'A slow loop through the Mathias Botanical Garden: giant eucalyptus, cycads that look like dinosaur food, and the ginkgo-shaded amphitheatre called the Nest.'],
+      [760, 'Botanical Garden stroll', 'A slow loop through the Mathias Botanical Garden: giant eucalyptus, cycads that look like dinosaur (nice callback, huh?) food, and the ginkgo-shaded amphitheatre called the Nest.'],
       [800, 'Walk across campus', 'About fifteen minutes north, past Royce Hall and the top of the Janss Steps, to the Sculpture Garden.'],
-      [815, 'Mat down, lunch out', 'We set up on the lawn in the shade of the coral trees, playlist on, and your snacks and drinks come out.'],
-      [870, 'Chat, laugh, play art critic', 'Rodin, Calder, Henry Moore, Barbara Hepworth and more than seventy other pieces to invent backstories for.'],
-      [915, 'Read side by side', 'Books out. We read next to each other while the tunes play, or the birds sing, or, in true LA style, the cars rumble down Sunset Blvd.'],
-      [975, 'One more song', 'Then a slow walk back to the car, whenever we feel like it.'],
+      [815, 'Mat down, lunch out', 'We set up on the lawn in the shade of the coral trees, playlist on, and (y)our snacks and drinks come out.'],
+      [870, 'Chat, laugh, play art critic', 'Rodin, Calder, Henry Moore, Barbara Hepworth and more than seventy other pieces to make out (literally and then) backstories for.'],
+      [915, 'Read side by side', 'Books out. We read next to each other and maybe demonstrate passages which are too abstract.'],
+      [975, 'One more song', 'I walk you back to Rochelle, whenever we feel like it.'],
       ['sunset', 'Bonus round: stay for sunset?', 'If we\'re still going strong, golden light through the coral trees.']
     ]
   };
