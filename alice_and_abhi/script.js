@@ -63,7 +63,7 @@
       [760, 'Botanical Garden stroll', 'A slow loop through the Mathias Botanical Garden: giant eucalyptus, cycads that look like dinosaur (nice callback, huh?) food, and the ginkgo-shaded amphitheatre called the Nest.'],
       [800, 'Walk across campus', 'About fifteen minutes north, past Royce Hall and the top of the Janss Steps, to the Sculpture Garden.'],
       [815, 'Mat down, lunch out', 'We set up on the lawn in the shade of the coral trees, playlist on, and (y)our snacks and drinks come out.'],
-      [870, 'Chat, laugh, play art critic', 'Rodin, Calder, Henry Moore, Barbara Hepworth and more than seventy other pieces to make out (literally and then) backstories for.'],
+      [870, 'Chat, laugh, play art critic', 'Rodin, Calder, Henry Moore, Barbara Hepworth and more than seventy other pieces to (watch us) make out (literally and then) backstories for.'],
       [915, 'Read side by side', 'Books out. We read next to each other and maybe demonstrate passages which are too abstract.'],
       [975, 'One more song', 'I walk you back to Rochelle, whenever we feel like it.'],
       ['sunset', 'Bonus round: stay for sunset?', 'If we\'re still going strong, golden light through the coral trees.']
